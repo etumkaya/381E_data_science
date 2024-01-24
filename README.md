@@ -10,7 +10,7 @@ The lecture covered key concepts of data science starting with data cleaning, fe
 
 Another focus of the lecture was text procesing. It covered NLP techniques such as extracting summaries and creating text embeddings with models like Bert and Word2Vec. Modeling using vectorized texts were shown, and we were given mini projects on it. 
 
-This class was really extensive, the topics it tought ranged from dimensionality reduction to working with audio data. However, I believe that the most beneficial part was the mini projects we needed to finish throughout the term. I've spent quite some time dealing with them and while doing so, I learned a lot more than I expected. The official page of the class can be found [here](https://github.com/kaygun/2023-Fall-381E).
+This class was really extensive, the topics it taught ranged from dimensionality reduction to working with audio data. However, I believe that the most beneficial part was the mini projects we needed to finish throughout the term. I've spent quite some time dealing with them and while doing so, I learned a lot more than I expected. The official page of the class can be found [here](https://github.com/kaygun/2023-Fall-381E).
 
 # Mini Projects
 
