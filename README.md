@@ -2,7 +2,7 @@
 
 ### Lecturer: [Prof. Dr. Atabey Kaygun](https://web.itu.edu.tr/kaygun/)
 
-This repository includes all my practical work for the Introduction to Data Science class which I participated during Fall_23 term at my university, Istanbul Technical. All my work is graded by the lecturer himself and his feedbacks can be seen here. 
+This repository includes all my practical work for the Introduction to Data Science class which I participated during Fall 2023 Term at my school, Istanbul Technical University. All my work is graded by the lecturer himself and his feedbacks can be seen here. 
 
 # About the Class                                        
                                        
